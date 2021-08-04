@@ -491,6 +491,9 @@
         },
         "show_vendor": {
           "label": "Show vendor"
+        },
+        "show_rating": {
+          "label": "Show product rating"
         }
       },
       "presets": {
@@ -936,6 +939,9 @@
         },
         "show_vendor": {
           "label": "Show vendor"
+        },
+        "show_rating": {
+          "label": "Show product rating"
         },
         "header__1": {
           "content": "Filtering and sorting"
@@ -1479,6 +1485,9 @@
         },
         "show_vendor": {
           "label": "Show vendor"
+        },
+        "show_rating": {
+          "label": "Show product rating"
         }
       }
     },

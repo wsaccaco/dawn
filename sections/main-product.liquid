@@ -305,7 +305,8 @@
 
             <script src="{{ 'pickup-availability.js' | asset_url }}" defer="defer"></script>
           {%- when 'rating' -%}
-            <div class="rating" style="--rating: 2.3;">
+            <div class="rating" style="--rating: 2.3;"></div>
+            <p class="caption">(20)</p>
           {%- endcase -%}
         {%- endfor -%}
       </div>
