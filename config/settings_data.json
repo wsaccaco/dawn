@@ -7,8 +7,8 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "heading": "Welcome to our store",
-              "color_scheme": "accent-1",
+              "heading": "Bienvenido a tu tienda Saccaco.pe",
+              "color_scheme": "background-1",
               "link": ""
             }
           }
